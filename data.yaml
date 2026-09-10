@@ -1,0 +1,7 @@
+path: ./cat-fight-dataset-v1
+train: images/Train
+val: images/Validation
+test: images/Test
+names:
+  0: cat_white
+  1: cat_grey
