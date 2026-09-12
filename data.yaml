@@ -1,4 +1,4 @@
-path: ./cat-fight-dataset-v2
+path: ./cat-fight-dataset-v3
 train: images/Train
 val: images/Validation
 test: images/Test
